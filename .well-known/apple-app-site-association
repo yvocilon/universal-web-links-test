@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "6ZULGA732J.com.appcore.ovidiubaby",
-        "paths": ["/chickens/*", "/cows/*"]
+        "paths": ["/chickens.html", "/cows.html"]
       }
     ]
   }
