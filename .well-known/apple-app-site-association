@@ -3,8 +3,15 @@
     "apps": [],
     "details": [
       {
-        "appID": "6ZULGA732J.com.appcore.ovidiubaby",
-        "paths": ["/chickens.html", "/cows.html"]
+        "appIDs": [ "6ZULGA732J.com.appcore.ovidiubaby" ],
+        "components": [
+          {
+            "/": "/cows.html"
+          },
+          {
+            "/": "/chickens.html"
+          }
+        ]
       }
     ]
   }
